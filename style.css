@@ -31,11 +31,17 @@ body {
     background-color: var(--blue-100);
 }
 
+.grade {
+    font-size: 2rem;
+    color: var(--white-900);
+}
+
 /* Main Section*/
 .result-summary__container {
     width: 46rem;
     height: 32rem;
     display: flex;
+    font-size: 1.125rem;
     background-color: var(--white-900);
     border-radius: 2rem;
 }
@@ -47,6 +53,8 @@ body {
 
 /* Result Section */
 .result__container {
+    color: var(--blue-200);
+    text-align: center;
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     border-radius: 2rem;
 }
@@ -60,4 +68,11 @@ body {
     align-items: center;
     background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
     border-radius: 100%;
+}
+
+.score {
+    display: block;
+    font-weight: 800;
+    font-size: 3rem;
+    color: var(--white-900);
 }
