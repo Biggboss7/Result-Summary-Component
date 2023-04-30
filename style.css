@@ -30,3 +30,23 @@ body {
     flex-direction: column;
     background-color: var(--blue-100);
 }
+
+/* Main Section*/
+.result-summary__container {
+    width: 46rem;
+    height: 32rem;
+    display: flex;
+    background-color: var(--white-900);
+    border-radius: 2rem;
+}
+
+.result__container,
+.summary__container {
+    width: 50%;
+}
+
+/* Result Section */
+.result__container {
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    border-radius: 2rem;
+}
