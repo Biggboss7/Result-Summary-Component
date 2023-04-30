@@ -32,6 +32,7 @@ body {
 }
 
 .grade {
+    margin-bottom: .9rem;
     font-size: 2rem;
     color: var(--white-900);
 }
@@ -53,6 +54,7 @@ body {
 
 /* Result Section */
 .result__container {
+    padding: 2rem 3rem;
     color: var(--blue-200);
     text-align: center;
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
@@ -62,7 +64,7 @@ body {
 .result__diagram {
     width: 200px;
     height: 200px;
-    margin: 0 auto;
+    margin: 1.8rem auto;
     display: flex;
     justify-content: center;
     align-items: center;
