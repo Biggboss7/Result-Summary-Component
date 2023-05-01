@@ -35,6 +35,39 @@ body {
     background-color: var(--blue-100);
 }
 
+/* Utilities */
+.bg-red {
+    background-color: var(--trans-red);
+}
+
+.bg-yellow {
+    background-color: var(--trans-yellow);
+}
+
+.bg-green {
+    background-color: var(--trans-green);
+}
+
+.bg-blue {
+    background-color: var(--trans-blue);
+}
+
+.red {
+    color: var(--red-500);
+}
+
+.yellow {
+    color: var(--yellow-500);
+}
+
+.green {
+    color: var(--green-500);
+}
+
+.blue {
+    color: var(--blue-500);
+}
+
 .grade {
     margin-bottom: .9rem;
     font-size: 2rem;
