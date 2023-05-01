@@ -116,3 +116,37 @@ body {
     font-size: 3rem;
     color: var(--white-900);
 }
+
+/* Summary Section */
+.summary__report {
+    display: grid;
+    justify-items: center;
+    gap: 1rem;
+}
+
+.report__subject {
+    width: 18rem;
+    height: 3.5rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: .8rem;
+}
+
+.subject__icon {
+    margin-right: .8rem;
+}
+
+.subject__title {
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.subject__score {
+    margin-left: auto;
+}
+
+.out_of {
+    color: var(--trans-navy);
+}
