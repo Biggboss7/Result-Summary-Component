@@ -19,6 +19,7 @@
     --blue-500: hsl(234, 85%, 45%);
     --blue-800: hsl(224, 30%, 27%);
     --trans-blue: hsla(234, 85%, 45%, .1);
+    --trans-navy: hsla(224, 30%, 27%, .5);
 }
 
 html {
