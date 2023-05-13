@@ -128,8 +128,17 @@ body {
 }
 
 /* Summary Section */
+.summary__container {
+    padding: 2rem 2.5rem;
+}
+
+.summary__container h2 {
+    margin-bottom: 1.75rem;
+}
+
 .summary__report {
     display: grid;
+    margin-bottom: 2.56rem;
     justify-items: center;
     gap: 1rem;
 }
