@@ -75,6 +75,16 @@ body {
     color: var(--white-900);
 }
 
+.btn {
+    display: block;
+    padding: 1rem 0;
+    color: var(--white-900);
+    font-size: 1.125rem;
+    font-weight: 700;
+    border-style: none;
+    cursor: pointer;
+}
+
 /* Main Section*/
 .result-summary__container {
     width: 46rem;
@@ -149,4 +159,15 @@ body {
 
 .out_of {
     color: var(--trans-navy);
+}
+
+.btn_continue {
+    width: 18rem;
+    margin: 0 auto;
+    background-color: var(--blue-800);
+    border-radius: 1.7rem;
+}
+
+.btn_continue:active {
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
