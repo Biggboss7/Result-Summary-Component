@@ -93,7 +93,7 @@ h1 {
 /* Main Section*/
 .result-summary__container {
     width: 46rem;
-    height: 32rem;
+    /* height: 32rem; */
     display: flex;
     font-size: 1.125rem;
     background-color: var(--white-900);
