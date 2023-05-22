@@ -36,11 +36,6 @@ body {
     background-color: var(--blue-100);
 }
 
-h1 {
-    color: var(--blue-500);
-    margin-bottom: 2rem;
-}
-
 /* Utilities */
 .bg-red {
     background-color: var(--trans-red);
@@ -78,6 +73,10 @@ h1 {
     margin-bottom: .9rem;
     font-size: 2rem;
     color: var(--white-900);
+}
+
+.non-visible {
+    font-size: 0px;
 }
 
 .btn {
