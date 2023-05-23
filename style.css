@@ -29,6 +29,7 @@ html {
 
 body {
     min-height: 100vh;
+    min-width: 375px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -183,4 +184,44 @@ body {
 
 .btn_continue:active {
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
+@media only screen and (max-width: 750px) {
+    h2 {
+        font-size: 1.125rem;
+    }
+
+    .grade {
+        font-size: 1.5rem;
+    }
+
+    .result-summary__container {
+        width: 375px;
+        flex-direction: column;
+    }
+
+    .result__container,
+    .summary__container {
+        width: 100%;
+    }
+
+    .result__container {
+        padding: 2rem 2rem;
+    }
+
+    .result__diagram {
+        width: 8.75rem;
+        height: 8.75rem;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .result-summary__container {
+        border-radius: 0;
+    }
+
+    .result__container {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
 }
