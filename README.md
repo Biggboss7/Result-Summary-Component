@@ -1,4 +1,4 @@
-#Frontend Mentor - Result Summary Component
+# Frontend Mentor - Result Summary Component
 This Project is made to complete the challenge [Result Summary Component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0ma) from Frontend Mentor.
 ## Table of Contents
 - [Overview](#overview)
