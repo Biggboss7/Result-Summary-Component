@@ -4,6 +4,7 @@ This Project is made to complete the challenge [Result Summary Component](https:
 - [Overview](#overview)
   - [Challenge](#challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My Process](#my-process)
   - [Built with](#built-with)
   - [What I Learned](#what-i-learned)
@@ -26,6 +27,10 @@ In order to complete this challenge, user should be able to :
 
 **Mobile Preview**
 ![Result-Summary on Mobile Preview](./assets/images/Mobile-Preview.png)
+
+### Links
+- Solution URL: [Code here](https://github.com/Biggboss7/Result-Summary-Component)
+- Live URL: [Live Preview here](https://biggboss7.github.io/Result-Summary-Component)
 
 ## My Process
 ### Built With
