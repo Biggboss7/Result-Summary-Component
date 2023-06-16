@@ -82,6 +82,7 @@ body {
 
 .btn {
     display: block;
+    text-align: center;
     padding: 1rem 0;
     color: var(--white-900);
     font-size: 1.125rem;
