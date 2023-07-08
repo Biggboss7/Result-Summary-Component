@@ -30,7 +30,7 @@ In order to complete this challenge, user should be able to :
 
 ### Links
 - Solution URL: [Code here](https://github.com/Biggboss7/Result-Summary-Component)
-- Live URL: [Live Preview here](https://biggboss7.github.io/Result-Summary-Component)
+- Live URL: [Live Preview here](https://lucky-macaron-a86596.netlify.app)
 
 ## My Process
 ### Built With
